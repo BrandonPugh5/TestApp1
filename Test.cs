@@ -1,5 +1,8 @@
 public class Test{
-	public Test{
+	public String name;
+	public int version;
 	
+	public Test{
+		
 	}
 }
